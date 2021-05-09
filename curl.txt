@@ -1,0 +1,1 @@
+curl -X POST "http://172.19.40.58:8080/api-gateway/notification-service/wms-notification/notify/eventId/71265643/34" -H  "accept: */*"
